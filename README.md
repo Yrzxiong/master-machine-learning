@@ -1,6 +1,6 @@
 # master-machine-learning
 
-Supervised Learning:
+[Supervised]
 
   Supervised Learning.ipynb
 
@@ -8,6 +8,10 @@ Supervised Learning:
   
   fruit_data_with_colors.csv # data set
 
-Unsupervised Learning:
-  
+[Unsupervised]
+
   Unsupervised.ipynb
+
+[feature selection]
+  
+  feature selection.ipynb
