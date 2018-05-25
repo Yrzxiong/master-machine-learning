@@ -12,6 +12,6 @@
 
   Unsupervised.ipynb
 
-[feature selection]
+[feature selection, Pipeline]
   
-  feature selection.ipynb
+  Feature selection & Pipeline.ipynb
